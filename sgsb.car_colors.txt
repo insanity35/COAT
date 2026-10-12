@@ -1,0 +1,56 @@
+SiiNunit
+{
+color_array : .car_colors {
+    # ==========================================
+    # SGSB: 26.12.161--oct7--1750--TRAFFIC COLORS MASTER PALETTE (BALANCED WORK POOL)
+    # ==========================================
+
+    # --- COMMUTER & ECONOMY POOL (Weighted for 2020-2027 Market Share) ---
+    color[]: (0.8500, 0.8500, 0.8500) # Fleet / Pearl White (High Frequency)
+    color[]: (0.8500, 0.8500, 0.8500) # Fleet White (Frequency Repeat)
+    color[]: (0.7084, 0.7084, 0.7084) # Standard Silver
+    color[]: (0.6000, 0.6000, 0.6000) # Standard Gray
+    color[]: (0.6000, 0.6000, 0.6000) # Standard Gray (Frequency Repeat)
+    color[]: (0.3662, 0.3277, 0.2788) # Magnetic / Modern Gray
+    color[]: (0.3325, 0.3663, 0.3864) # Slate Gray
+    color[]: (0.2800, 0.2800, 0.3000) # Dark Shadow Gray
+    color[]: (0.2000, 0.2000, 0.2000) # Charcoal Consumer
+    color[]: (0.0296, 0.0685, 0.1912) # Deep Impact Blue
+    color[]: (0.2581, 0.0221, 0.0097) # Ruby Red
+
+    # --- EXECUTIVE & LUXURY POOL ---
+    color[]: (0.0200, 0.0200, 0.0200) # Obsidian Black
+    color[]: (0.0400, 0.0400, 0.0400) # Deep Metallic Black
+    color[]: (0.5000, 0.5000, 0.5000) # Platinum Metallic
+    color[]: (0.5000, 0.4800, 0.4200) # Warm Champagne / Gold Metallic
+    color[]: (0.0112, 0.0772, 0.2580) # Midnight Blue
+    color[]: (0.9000, 0.9000, 0.9000) # Luxury Pearl White
+
+    # --- TRUCK & UTILITY SERVICE POOL (Balanced Work Tones) ---
+    color[]: (0.9000, 0.9000, 0.9000) # Commercial White (Anchor share)
+    color[]: (0.7500, 0.7500, 0.7500) # Fleet Silver Metallic
+    color[]: (0.4500, 0.4500, 0.4500) # Industrial Gray
+    color[]: (0.7800, 0.7200, 0.6000) # Contractor Desert Tan / Beige
+    color[]: (0.1569, 0.2745, 0.4314) # Municipal Dark Blue (Anchor)
+    color[]: (0.1569, 0.2745, 0.4314) # Municipal Dark Blue (Weighted Frequency)
+    color[]: (0.8800, 0.6800, 0.0800) # Public Works DOT Safety Yellow / Amber (Municipal/DOT trucks)
+    color[]: (0.3550, 0.3550, 0.3550) # Primer / Fleet Gray
+    color[]: (0.1000, 0.1200, 0.1500) # Heavy Service Charcoal
+    color[]: (0.1200, 0.1500, 0.1300) # Deep Hunter Green
+
+    # --- RARE RANDOM COOL COLORS & MODERN TRENDS (NO LIME) ---
+    color[]: (0.0400, 0.1400, 0.0900) # Evergreen Sprint (Deep Forest Green Trend)
+    color[]: (0.0400, 0.2200, 0.2200) # Deep Aquatic Teal Metallic (Modern Trend)
+    color[]: (0.5020, 0.3450, 0.1960) # Burnished Metallic Bronze / Copper Brown
+    color[]: (0.0800, 0.0200, 0.1200) # Royal Magenta / Deep Violet Flake
+    color[]: (0.4200, 0.4500, 0.4300) # Tactical Cement / Lunar Rock (Modern Flat Putty Trend)
+
+    # --- LOCKED-IN CLASSIC SPECIALTIES ---
+    color[]: (0.6274, 0.0578, 0.0021) # 2010 Jeep Mango Tango Pearl
+    color[]: (0.5250, 0.2040, 0.6270) # 1970 Dodge Plum Crazy Purple (FC7)
+    color[]: (0.4200, 0.1100, 0.1600) # 1988 Ford Mustang Medium Cabernet Red (Code 2H Fox GT Maroon)
+    color[]: (0.7800, 0.5500, 0.1200) # Vintage 1970s Mustard Gold (Classic)
+    color[]: (0.1500, 0.3500, 0.4200) # Vintage 1970s Glacier Blue (Classic)
+    color[]: (0.0800, 0.4500, 0.4800) # Vintage 1970s Tahitian Turquoise (Classic)
+}
+}
