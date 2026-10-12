@@ -19,7 +19,7 @@ This project is dedicated to the glory of God. Every mile driven and every line 
 *— Built by a driver, for drivers.*
 
 **Full Release Log & Source:** [GitHub Repository](https://github.com/insanity35/COAT)
-**Our other mods:
+**Our other mods:**
 *	SGSB(Smart Gates, Dynamic Parking Lots & Safety Buffers)
 	https://steamcommunity.com/sharedfiles/filedetails/?id=3764824734
 
