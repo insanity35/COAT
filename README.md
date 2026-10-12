@@ -1,23 +1,31 @@
-[quote]
-[h2]Color Overhaul for Autos and Trucks (C.O.A.T)[/h2] 26.10.161
+![Project Header](COATfull.jpeg)
 
- [h2]Enjoying the mod?[/h2]
-Please consider giving it a [b]Like[/b], [b]Favorite[/b], and [b]Subscribe[/b] to stay updated on future releases! 
-👍 ⭐ 🔔
-[/quote]
+Color Overhaul for Autos and Trucks
+C.O.A.T
 
-[h2]📖 A Note from the Developer[/h2]
+## 📊 Official Release Information
+* **Current Version:** 26.11.161 Stable
+* **ATS Compatibility:** v1.61.* branch (Maybe older I do not know I developed on 1.61)
+* **Development Environment:** Ubuntu 26.04.1 LTS
+* Extracted by terminal by sk-zk Extractor tool
+  * https://github.com/sk-zk/Extractor
+* Official SCS Uploader tool running under Proton 
+* **Architecture:** Pure definition-only (.sii) layout
+
+---
+
+## 📖 A Note from the Developer
 This project is dedicated to the glory of God. Every mile driven and every line of code written is an expression of gratitude for the journey. May this mod bring a little more order, peace, and grace to the virtual highways we all travel. 
 *— Built by a driver, for drivers.*
 
 **Full Release Log & Source:** [GitHub Repository](https://github.com/insanity35/COAT)
 **Our other mods:
-**SGSB(Smart Gates, Dynamic Parking Lots & Safety Buffers)
+*	SGSB(Smart Gates, Dynamic Parking Lots & Safety Buffers)
 	https://steamcommunity.com/sharedfiles/filedetails/?id=3764824734
 
 ---
 
-[h2]C.O.A.T. (Color Overhaul for Autos & Trucks)[/h2]
+# C.O.A.T. (Color Overhaul for Autos & Trucks)
 
 **Tired of the highway looking like a bag of Skittles?**
 Vanilla American Truck Simulator traffic tends to spawn with arcade-like, hyper-saturated colors that pull you right out of the simulation. **C.O.A.T.** is a comprehensive visual realism mod that overhauls the color palettes and spawn ratios for both active AI traffic and static parked vehicles across the entire game.
@@ -43,12 +51,12 @@ The immersion doesn't stop on the interstate. C.O.A.T. overhauls how the backgro
 
 * **World Textures (`model/textures/`):** Custom-painted `.dds` grids replace the vanilla static color maps, mapping the new 38-color array directly to the background world geometry.
 
-[h2] 🛠️ COMPATIBILITY & LOAD ORDER[/h2]
+### 🛠️ COMPATIBILITY & LOAD ORDER
 
 * Fully compatible with global AI density and traffic behavior mods.
 * **Load Order:** Place C.O.A.T. **ABOVE** other traffic or AI density mods in your mod manager so the custom color definitions, models, and spawn ratios can overwrite the vanilla/modded defaults.
 
-[h2]🗺️ ROADMAP[/h2]
+### 🗺️ ROADMAP
 
 * **Model-Specific Auto Palettes:** Just like the brand-specific treatment applied to the semi-trucks, future updates will go vehicle-by-vehicle to restrict specific color selections *only* to the AI car models that would have actually offered them from the factory in real life.
 
@@ -68,3 +76,8 @@ A massive shout-out to our three-person team for pulling this together, and spec
 * **Soli Deo Gloria**
 
 ---
+
+## 📜 Complete Mod Release History
+
+V26.10.161
+-Initial release mod description is release notes!!
