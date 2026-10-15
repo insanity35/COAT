@@ -18,7 +18,7 @@ C.O.A.T
 This project is dedicated to the glory of God. Every mile driven and every line of code written is an expression of gratitude for the journey. May this mod bring a little more order, peace, and grace to the virtual highways we all travel. 
 *— Built by a driver, for drivers.*
 
-**Full Release Log & Source:** [GitHub Repository](https://github.com/insanity35/COAT)
+**Full Release Log & Source:** [GitHub](https://github.com/insanity35/COAT)
 * **Our other mods:**
 *	SGSB(Smart Gates, Dynamic Parking Lots & Safety Buffers)
 	https://steamcommunity.com/sharedfiles/filedetails/?id=3764824734
@@ -28,7 +28,7 @@ This project is dedicated to the glory of God. Every mile driven and every line 
 # C.O.A.T. (Color Overhaul for Autos & Trucks)
 
 **Tired of the highway looking like a bag of Skittles?**
-Vanilla American Truck Simulator traffic tends to spawn with arcade-like, hyper-saturated colors that pull you right out of the simulation. **C.O.A.T.** is a comprehensive visual realism mod that overhauls the color palettes and spawn ratios for both active AI traffic and static parked vehicles across the entire game.
+Vanilla American Truck Simulator traffic tends to spawn with arcade-like, hyper-saturated colors that pull you right out of the simulation. Using data from 2015-2027 **C.O.A.T.** is a comprehensive visual realism mod that overhauls the color palettes and spawn ratios for both active AI traffic and static parked vehicles across the entire game. 
 
 Branched directly from the realism-focused **SGSB (Smart Gates, Dynamic Parking Lots, and Safety Buffers)** project, C.O.A.T. partners great and applies a much-needed fresh coat of paint to the ATS world.
 
@@ -79,5 +79,9 @@ A massive shout-out to our three-person team for pulling this together, and spec
 
 ## 📜 Complete Mod Release History
 
-V26.10.161
--Initial release mod description is release notes!!
+V26.10.161-(Oct14-1443)
+* Few color bugs that popped up
+* dds compression and mipmapping enhancements 
+
+V26.10.161(Oct12-1800)
+-Initial release mod. Description is release notes!!
