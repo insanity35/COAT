@@ -72,7 +72,6 @@ The immersion doesn't stop on the interstate. C.O.A.T. overhauls how the backgro
 
 A massive shout-out to our three-person team for pulling this together, and special thanks to the entire trucking community for the incredible passion and feedback.
 * Developed natively on Ubuntu 26.04.1 LTS
-* Thank you to SCS Software for letting us nod
 * **Soli Deo Gloria**
 
 ---
