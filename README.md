@@ -21,7 +21,7 @@ This project is dedicated to the glory of God. Every mile driven and every line 
 **Full Release Log & Source:** [GitHub](https://github.com/insanity35/COAT)
 * **Our other mods:**
 *	SGSB(Smart Gates, Dynamic Parking Lots & Safety Buffers)
-	https://steamcommunity.com/sharedfiles/filedetails/?id=3764824734
+  https://steamcommunity.com/sharedfiles/filedetails/?id=3820362300
 
 ---
 
