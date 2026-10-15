@@ -79,9 +79,11 @@ A massive shout-out to our three-person team for pulling this together, and spec
 
 ## 📜 Complete Mod Release History
 
-V26.10.161-(Oct14-1443)
+
+
+v26.10.161-(Oct14-1443)Published oct15
 * Few color bugs that popped up
 * dds compression and mipmapping enhancements 
 
-V26.10.161(Oct12-1800)
+v26.10.161(Oct12-1800)BETA
 -Initial release mod. Description is release notes!!
