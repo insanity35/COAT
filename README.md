@@ -21,7 +21,8 @@ This project is dedicated to the glory of God. Every mile driven and every line 
 **Full Release Log & Source:** [GitHub](https://github.com/insanity35/COAT)
 * **Our other mods:**
 *	SGSB(Smart Gates, Dynamic Parking Lots & Safety Buffers)
-  https://steamcommunity.com/sharedfiles/filedetails/?id=3764824734
+	https://steamcommunity.com/sharedfiles/filedetails/?id=3764824734
+
 ---
 
 # C.O.A.T. (Color Overhaul for Autos & Trucks)
@@ -77,7 +78,21 @@ A massive shout-out to our three-person team for pulling this together, and spec
 
 ## 📜 Complete Mod Release History
 
+v26.11.161 (Oct22-1324)
+* I was going to hold this till Nov 1, but I wanted static lots cleaned up. *
 
+* re balanced color values of parked and active!
+* re did most color_palete1-5 & color_palete_01-07
+* static lots more dynamic
+* dealer lots better color selection
+* fixed bumpers, lights and wheels turning Orange or purple on low lod vehicles
+* fixed crazy amount of purple in beta tests(pretty much removed)
+
+* please report any issues
+* any pink on trucks now is down to breast cancer month.
+
+v26.10.161-1(oct17-1001)
+* Fixed mod_description error in game log my bad!
 
 v26.10.161-(Oct14-1443)Published oct15
 * Few color bugs that popped up
