@@ -4,8 +4,8 @@ Color Overhaul for Autos and Trucks
 C.O.A.T
 
 ## 📊 Official Release Information
-* **Current Version:** 26.11.161 Stable
-* **ATS Compatibility:** v1.61.* branch (Maybe older I do not know I developed on 1.61)
+* **Current Version:** 26.11.162 Stable
+* **ATS Compatibility:** v1.62.* branch (Maybe older I do not know I developed on 1.61)
 * **Development Environment:** Ubuntu 26.04.1 LTS
 * Extracted by terminal by sk-zk Extractor tool
   * https://github.com/sk-zk/Extractor
@@ -77,6 +77,10 @@ A massive shout-out to our three-person team for pulling this together, and spec
 ---
 
 ## 📜 Complete Mod Release History
+
+v26.11.162-Nov7-2138
+* 1.62 version bump
+* Toned down yellow a touch for lunar rock
 
 v26.11.161 (Oct22-1324)
 * I was going to hold this till Nov 1, but I wanted static lots cleaned up. *
