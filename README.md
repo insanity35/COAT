@@ -26,7 +26,8 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=3764824734
 https://steamcommunity.com/sharedfiles/filedetails/?id=3820362300
 * **AMP (ATS Map Project)
 https://steamcommunity.com/sharedfiles/filedetails/?id=3833880342
-* ** Updated Mod Truck Project(K100 & 9800i)
+* ** Updated Mod Truck Project
+* All credits to there rightful owners I just patched them up to work better on latest game versions.
 https://www.mediafire.com/folder/1r3djnxjvdez9/Ats+Truck+Updates
 ---
 
