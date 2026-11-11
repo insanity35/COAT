@@ -17,12 +17,17 @@ C.O.A.T
 ## 📖 A Note from the Developer
 This project is dedicated to the glory of God. Every mile driven and every line of code written is an expression of gratitude for the journey. May this mod bring a little more order, peace, and grace to the virtual highways we all travel. 
 *— Built by a driver, for drivers.*
-
 **Full Release Log & Source:** [GitHub](https://github.com/insanity35/COAT)
-* **Our other mods:**
-*	SGSB(Smart Gates, Dynamic Parking Lots & Safety Buffers)
-	https://steamcommunity.com/sharedfiles/filedetails/?id=3764824734
 
+## 🚚 Check Out Our Other Mods
+* **SGSB (Faster Gate Openings & Realistic Yards):
+https://steamcommunity.com/sharedfiles/filedetails/?id=3764824734
+* **C.O.A.T (Color Overhaul for Autos & Trucks):
+https://steamcommunity.com/sharedfiles/filedetails/?id=3820362300
+* **AMP (ATS Map Project)
+https://steamcommunity.com/sharedfiles/filedetails/?id=3833880342
+* ** Updated Mod Truck Project(K100 & 9800i)
+https://www.mediafire.com/folder/1r3djnxjvdez9/Ats+Truck+Updates
 ---
 
 # C.O.A.T. (Color Overhaul for Autos & Trucks)
